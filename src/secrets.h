@@ -16,4 +16,4 @@
 #define MQTT_TOPIC_PUB_2 "SmartlockSchuppen"
 #define ADDRESS_2 "00:00:00:00:00:02"
 #define USER_KEY_2 "xxlksjdfölakjsdfljkasdlfkj"
-#define USER_ID_2 1
+#define USER_ID_2 3
